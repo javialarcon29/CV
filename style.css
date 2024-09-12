@@ -135,7 +135,7 @@ body, html {
     margin-right: 10px;
 }
 
-/* Tamaños ajustables para dispositivos móviles */
+
 @media (max-width: 768px) {
     .container {
         margin: 50px auto;
